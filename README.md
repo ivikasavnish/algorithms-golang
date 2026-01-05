@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GoDoc](https://godoc.org/github.com/ivikasavnish/algorithms-golang?status.svg)](https://godoc.org/github.com/ivikasavnish/algorithms-golang)
 
-A comprehensive collection of algorithms and data structures implemented in Go (Golang). This package aims to be the most complete and production-ready algorithms library, covering Data Structures & Algorithms (DSA), Machine Learning, and Database-related algorithms.
+A comprehensive collection of algorithms and data structures implemented in Go (Golang). This package provides an extensive algorithms library covering Data Structures & Algorithms (DSA), Machine Learning, and Database-related algorithms.
 
 ## 📋 Table of Contents
 
@@ -30,13 +30,13 @@ A comprehensive collection of algorithms and data structures implemented in Go (
 
 ## ✨ Features
 
-- **Production-Ready**: Well-tested, efficient implementations
 - **Comprehensive Coverage**: DSA, ML, and Database algorithms
 - **Clean Code**: Idiomatic Go with clear documentation
-- **Performance Optimized**: Benchmarked and optimized implementations
+- **Performance Focused**: Optimized implementations with benchmarks
 - **Easy to Use**: Simple API with extensive examples
 - **Type Safe**: Leverages Go generics where applicable
 - **Well Documented**: Each algorithm includes complexity analysis and usage examples
+- **Production-Ready**: Well-tested, efficient implementations
 
 ## 📦 Installation
 
@@ -599,6 +599,8 @@ go get github.com/ivikasavnish/algorithms-golang
 
 ## 📖 Usage Examples
 
+> **Note**: The following examples demonstrate the planned package structure and API. Package names and imports will be available once the implementations are complete.
+
 ### Example 1: Binary Search
 ```go
 package main
@@ -711,7 +713,7 @@ func main() {
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Here's how you can help build the most comprehensive algorithms package for Go.
 
 ### How to Contribute
 
@@ -758,7 +760,7 @@ go test -bench=. ./...
 
 ## 📊 Performance
 
-All algorithms are benchmarked and optimized for production use. Check the `/benchmarks` directory for detailed performance analysis.
+All algorithms will be benchmarked and optimized for production use. Performance analysis and benchmarks will be available in the `/benchmarks` directory.
 
 ## 🗺️ Roadmap
 
