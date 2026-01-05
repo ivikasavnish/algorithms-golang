@@ -32,11 +32,11 @@ A comprehensive collection of algorithms and data structures implemented in Go (
 
 - **Comprehensive Coverage**: DSA, ML, and Database algorithms
 - **Clean Code**: Idiomatic Go with clear documentation
-- **Performance Focused**: Optimized implementations with benchmarks
+- **Performance Focused**: Targeting optimized implementations with benchmarks
 - **Easy to Use**: Simple API with extensive examples
 - **Type Safe**: Leverages Go generics where applicable
-- **Well Documented**: Each algorithm includes complexity analysis and usage examples
-- **Production-Ready**: Well-tested, efficient implementations
+- **Well Documented**: Each algorithm will include complexity analysis and usage examples
+- **Production-Ready Goal**: Aiming for well-tested, efficient implementations
 
 ## 📦 Installation
 
